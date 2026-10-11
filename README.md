@@ -1,0 +1,1 @@
+# Zero-Shot-Benchmarking-of-Vision-Language-Models-for-Urdu-Nastaliq-Handwriting-Recognition
