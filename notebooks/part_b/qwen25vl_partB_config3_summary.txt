@@ -1,0 +1,16 @@
+============================================================
+PART B -- QWEN2.5-VL-7B CORRECTOR -- CONFIG 3
+Image included: True | Template context: False
+============================================================
+Rows processed: 2465 | Errors: 0
+
+Tesseract baseline CER (Section 11):     0.7215
+Tesseract CER on this joined subset:      0.7215
+Corrected CER (config 3):                0.5984
+Corrected WER (config 3):                0.9646
+CER improvement (Tesseract - corrected):  +0.1230  (improved)
+Rows where correction improved CER:        1815 / 2465
+Rows where correction made it worse:       476 / 2465
+Rows unchanged:                             174 / 2465
+Empty corrected predictions:                0
+Exact match to ground truth:                0.00%
