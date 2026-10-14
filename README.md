@@ -75,14 +75,4 @@ Prediction CSVs include `file_id`, `writer_id`, `ground_truth`, `prediction`, an
 
 **Evaluation set:** 2,465 image/ground-truth pairs, 837 sentence templates, 336 writers, built from 7,319 valid UNHD pairs after de-duplication. Twelve sentences with fewer than two available writers were excluded.
 
-## Caveats
 
-One English prompt, one run per system, one version of each commercial model; open-source models ran 4-bit quantized; UNHD may appear in VLM pretraining data; six images have mislabeled ground truth (kept in all scores). See paper §VII.
-
-## Citation
-
-TODO: add the BibTeX entry once the paper is published.
-
-## License
-
-TODO: choose a license for the code. UNHD has its own license and is not covered by this repo's.
